@@ -57,10 +57,9 @@ imprime_solucion:
     mov rsi, firstMsg
     mov rdx, len1
     syscall
-
+	mov [solution], r9
 
 ;pushea en pila el resultado digito por digito
-	mov [solution], r9
     xor rcx, rcx
     mov r8, 10
     mov rcx, [solution]
