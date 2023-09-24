@@ -36,4 +36,20 @@ final:
 
 
 
+; para compilar: 
+; nasm -g -f elf64 Lab2_20210529.asm -o Lab2_20210529.o
+; gcc -g Lab2_20210529.o Lab2_20210529.c -o Lab2_20210529 -lm
+; para ejecutar:
+; ./Lab2_20210529
+;
+; Para depurar (despues de crear el ejecutable):
+; gdb
+; file Lab2_20210529
+; set disassembly-flavor intel
+; set print pretty
+; set args 5 (argumentos del programa)
+; b asmHallaDistancias (breakpoints: el nombre de cada funcion sera un punto de quiebre)
+; r
+
+
 
