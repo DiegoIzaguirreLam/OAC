@@ -1,5 +1,6 @@
 # OAC
-Ejercicios del curso Organización y Arquitectura de Computadoras en evaluaciones pasadas
+Clases y Ejercicios del curso Organización y Arquitectura de Computadoras
+
 
 Referencias imporantes: 
 - Wiki Primera Parte: https://github.com/stefano-sosac/iee240-learning-material/wiki
