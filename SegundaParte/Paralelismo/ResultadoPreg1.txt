@@ -1,0 +1,16 @@
+Numero de procesos: #8
+Tiempo de ejecucion serial para 1000000000: 59.74994069999957 segundos
+Tiempo de ejecucion paralela para 1000000000: 25.383502299999236 segundos
+
+Tiempo de ejecucion serial para 500000000: 32.87753299999167 segundos
+Tiempo de ejecucion paralela para 500000000: 12.471312800000305 segundos
+
+Tiempo de ejecucion serial para 100000000: 6.824732799999765 segundos
+Tiempo de ejecucion paralela para 100000000: 3.096901600001729 segundos
+
+Tiempo de ejecucion serial para 10000000: 0.5907235000049695 segundos
+Tiempo de ejecucion paralela para 10000000: 0.5912103000009665 segundos
+
+Tiempo de ejecucion serial para 1000000: 0.08549949999724049 segundos
+Tiempo de ejecucion paralela para 1000000: 0.43608499999390915 segundos
+
